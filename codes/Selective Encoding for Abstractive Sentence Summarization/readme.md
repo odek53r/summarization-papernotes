@@ -1,4 +1,4 @@
-This project is to implement "Selective Encoding for Abstractive Sentence Summarization" paper using tensorflow, but it is still in progress. You can extend the project with your own corpus/languages. Simplifying code is the core property of the project, so few python libraries needed. 
+This project aims to implement "Selective Encoding for Abstractive Sentence Summarization" paper using tensorflow, but it is still in progress. You can extend the project with your own corpus/languages. Simplifying code is the core property of the project, so few python libraries needed. 
 
 ##  Installation</br>
 - Requirements
