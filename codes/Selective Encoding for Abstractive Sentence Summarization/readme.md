@@ -48,4 +48,4 @@ Beam search decoder haven't been implemented because I don't know how to do it, 
 
 Maxout mechanism description in this paper isn't clear to me so that there may be some mistakes in the codes.
 
-This is the first tensorflow project if there is awful code in the project, don't hesitate to tell me where I made the mistake.
+This is the first tensorflow project. If there is awful code in the project, don't hesitate to tell me where I made the mistake.
