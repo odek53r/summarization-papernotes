@@ -41,7 +41,7 @@ train\_x\_vec, train\_y\_vec contains words ID of text which is translated by ma
 	[id1,id2,id3,id4,.......] 
 	[id1,id2,id3,id4,...] 
 
-Restoring parameters from saved checkpoint is a important function which can prevent interuption accidentally when training the model leading to embarrassed situation. So the project will automatically save all used variables in a convenient way, restoring as well.
+Restoring parameters from saved checkpoint is a important function which can prevent interuption accidentally when training the model leading to embarrassed situation. So the project will automatically save all used variables in a convenient way, restoring process as well.
 
 ## other
 Beam search decoder haven't been implemented because I don't know how to do it, so if someone else understands how to implement, you can send pull request for improving the project.
